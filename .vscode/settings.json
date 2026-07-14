@@ -5,5 +5,7 @@
     "tools": true,
     "requirements.txt": true,
     ".gitignore": true
-  }
+  },
+  "python.defaultInterpreterPath": "/workspaces/TKH-Data-Analytics/.venv/bin/python",
+  "python.terminal.activateEnvironment": true
 }
